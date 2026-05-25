@@ -1,0 +1,18 @@
+============================================================
+DETR TRAINING SUMMARY REPORT
+============================================================
+
+Device: mps
+Epochs: 4
+Batch Size: 2
+Learning Rate: 0.0005
+Number of Classes: 10
+
+Final Metrics:
+  mAP: 0.0000
+  mAP@0.5: 0.0000
+Error Analysis:
+  Correct Detections: 11
+  Wrong Class: 18
+  Poor Localization: 458
+  False Positives: 3246
